@@ -54,7 +54,7 @@ You can navigate through the sections of the portfolio via the navigation menu. 
 Click on the "View My Work" button to explore my projects.
 Use the "Get In Touch" button to send me a message via the contact form.
 Deployment
-This portfolio is hosted on [GitHub Pages] for easy access. You can view the live version of the project by visiting the link.
+This portfolio is hosted on (https://vercel.com/vyona-njeris-projects/plp-portfolio-hackathon) for easy access. You can view the live version of the project by visiting the link.
 
 ## Quality & Best Practices
 
