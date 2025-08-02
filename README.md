@@ -9,7 +9,6 @@ Welcome to my portfolio! This website showcases my skills, background, and achie
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployment](#deployment)
 - [Evaluation Criteria](#evaluation-criteria)
 - [Contact](#contact)
 
